@@ -98,7 +98,7 @@ export default {
     width: 100%;
   }
   .table {
-    font-size: 12px; /* Adjusted font size for small screens */
+    font-size: 12px;
   }
 }
 </style>
